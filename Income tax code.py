@@ -1,10 +1,10 @@
 import mysql.connector
 import pickle
 
-mydb = mysql.connector.connect( host = "localhost",
-    user = "root",
-    passwd = "#mysql12345#mysql12345",
-    database = 'income_tax_management'
+mydb = mysql.connector.connect( host = "",
+    user = "",
+    passwd = "",
+    database = ''
 )
 
 mycursor = mydb.cursor(buffered = True)
