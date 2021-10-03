@@ -7,4 +7,4 @@ The project uses Pyhton and MySQL
 There is a menu ofchoices for user (like insert record, update record, delete record, get taxable income, etc.)
 <p>
   ![Screenshot (266)](https://user-images.githubusercontent.com/70025630/135745897-f7331add-d045-4f3d-8ebe-19c1bd9d2c28.png)
-</p>
+
